@@ -1,9 +1,10 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+date: 2024-05-28
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+The documents stored here are all written in markdown, processed by Jekyll and
+served over Github Pages. This site uses [Gitbook](https://github.com/sighingnow/jekyll-gitbook)
+settings for markdown processing.
