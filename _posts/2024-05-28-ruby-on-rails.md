@@ -20,11 +20,12 @@ Ruby on Rails is a framework to develop web applications.
 
 # What is the Model-View-Controller architecture?
 
-![MVC Diagram](assets/images/MVC.png)
+![MVC Diagram](assets/img/MVC.png)
 
 # A Rails demo application
 
-After installing all necessary dependencies, we created the first demo app.
+After installing all necessary dependencies, we created the 
+first demo app.
 
 Learning targets:
 
@@ -40,7 +41,8 @@ At the command prompt:
 $ rails new demo
 ```
 
-This will start an installation of all the dependencies (from now on called "gems").
+This will start an installation of all the dependencies 
+(from now on called "gems").
 
 Next we created a `Controller` with two actions: `say` and 
 `goodbye` using this command:
