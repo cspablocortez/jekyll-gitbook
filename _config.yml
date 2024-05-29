@@ -1,9 +1,9 @@
 # Configurations
-title:            Philosophy of Web Development
+title:            Field Guide to Web Development
 author:           Pablo E. Cortez
 email:            cspablocortez@gmail.com
 description: >
-  A book on web development, broadly construed.
+  A field guide to web development (broadly construed).
 
 version:          1.0
 gitbook_version:  3.2.3

@@ -3,7 +3,6 @@ title: Preface
 date: 2024-05-28
 category: Jekyll
 layout: post
-permalink: /
 ---
 
 This book *covers* (in the broadest sense of the term) the 
@@ -23,11 +22,13 @@ distributable, and scalable: modern software wants to be
 various technologies that together comprise the vast, 
 fractured toolset of web development technogies, and each of 
 these addresses a domain that falls under the umbrella term 
-of web development.
+of **web development**.
 
-Some materials in this book have been beeen sourced and 
-adapted from open source projects, all of which are credited 
-in corresponding sections.
+This book is a field guide[^2] to these technologies, 
+supplemented with examples to give them historical, social, 
+and philosophical context. Some materials in this book have 
+been beeen sourced and adapted from open source projects, 
+all of which are credited in corresponding sections.
 
 This site is created with Jekyll and hosted on Github Pages.
 
@@ -35,4 +36,4 @@ This site is created with Jekyll and hosted on Github Pages.
  
 [^1]: I adopt a variation of John Searle's definition of *philosophy*: "Philosophy is the attempt to understand how things in the broadest sense of the term hang together in the broadest sense of the term"
 
-
+[^2]: Frances Mayes defines a field guide as "an *aide-memoire* as well as a taxonomic treasure and a source of new information."
