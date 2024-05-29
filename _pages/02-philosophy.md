@@ -57,19 +57,20 @@ modern state of Artificial Intelligence? This is the type of
 question that a philosopher of technology would ask, perhaps 
 leading to further discoveries such as learning that the 
 technical foundation for the Internet we have today comes 
-from ARPANET, a 1969 project commissioned under the 
+from ARPANET, a 1969 project developed under the 
 jurisdiction of the United States Department of Defense.
 
-## Looking Forward
+## Up up and Away
 
-In the field of aviation, we went from aeroplanes to landing 
-on the moon in a span of a generation. How is that possible? 
-To understand the quick pace of technology we have to study 
-the philosophical, social, and historical forces that push 
-and pull upon it, sending it down various (seemingly 
-unrelated) paths. This aim of this book is to help its 
-reader follow these paths equipped not with all the answers, 
-but with the tools to ask the right questions.
+In the field of aviation, we went from aeroplanes during the 
+turn of the century to landing on the moon in the span of a 
+generation. How is that possible? To understand the quick 
+pace of technology we have to study the philosophical, 
+social, and historical forces that push and pull upon it, 
+sending it down various (seemingly unrelated) paths. The 
+aim of this book is to help its reader follow these paths 
+equipped not with all the answers, but with the tools to ask 
+the right questions.
 
 ---
 
