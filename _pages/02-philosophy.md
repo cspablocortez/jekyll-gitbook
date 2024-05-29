@@ -5,7 +5,7 @@ layout: post
 
 The role of philosophy in the development of computer 
 science is often understated to the detriment of newcomers 
-interested in the field. Like with the other sciences, 
+interested in the field. Like the other sciences, 
 computer science developed from the work of *philosophers*: 
 mathematicians, logicians and researchers whose inquiries 
 pressed on *why* things were the way they were, cracking 
