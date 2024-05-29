@@ -45,14 +45,14 @@ technical ones. We won't shy away from either &mdash;we will
 learn, for example, that questions like "can machines 
 think?" have been asked before the rise of modern 
 technologies like OpenAI's ChatGPT and Google's Gemini in a 
-totally different historical context: this question, for 
-example, was formally addressed in a 1950 paper[^1] by 
-philosopher and computer scientist Alan Turning. Five years 
-earlier, it is estimated Turing helped save between 14 to 21 
-million lives during World War II when he developed the 
-computer algorithm that cracked Enigma, the military 
-encryption machine used by Germany. What could *possibly* be 
-the relationship between Britain's wartime efforts and the 
+totally different historical context. That same question was 
+once formally addressed in a 1950 paper[^1] by philosopher 
+and computer scientist Alan Turning. Five years earlier, it 
+is estimated Turing helped save between 14 to 21 million 
+lives during World War II when he developed the computer 
+algorithm that cracked Enigma, the military encryption 
+machine used by Germany. What could *possibly* be the 
+relationship between Britain's wartime efforts and the 
 modern state of Artificial Intelligence? This is the type of 
 question that a philosopher of technology would ask, perhaps 
 leading to further discoveries such as learning that the 
