@@ -44,14 +44,14 @@ philosophical questions as its documentation does for
 technical ones. We won't shy away from either &mdash;we will 
 learn, for example, that questions like "can machines 
 think?" have been asked before the rise of modern 
-technologies like OpenAI's ChatGPT and Google's Gemini in a 
+technologies like OpenAI's ChatGPT or Google's Gemini in a 
 totally different historical context. That same question was 
 once formally addressed in a 1950 paper[^1] by philosopher 
 and computer scientist Alan Turning. Five years earlier, it 
 is estimated Turing helped save between 14 to 21 million 
 lives during World War II when he developed the computer 
 algorithm that cracked Enigma, the military encryption 
-machine used by Germany. What could *possibly* be the 
+machine used by German forces. What could *possibly* be the 
 relationship between Britain's wartime efforts and the 
 modern state of Artificial Intelligence? This is the type of 
 question that a philosopher of technology would ask, perhaps 
@@ -68,9 +68,9 @@ of a generation. How is that possible? To understand the
 quick pace of technology we have to study the philosophical, 
 social, and historical forces that push and pull upon it, 
 sending it down various (seemingly unrelated) paths. The aim 
-of this book is to help its reader follow these paths 
-equipped not with all the answers, but with the tools to ask 
-the right questions.
+of this book is to help the reader follow these paths 
+equipped not with all the answers, but certainly with the tools 
+to ask the right questions.
 
 ---
 
