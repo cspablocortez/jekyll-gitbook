@@ -13,7 +13,7 @@ more
 than five years to students with various expertise levels 
 and interests. These interests, ranging from game 
 development to math, art and science converge upon a single 
-point &mdash;shareablity.
+point &mdash;shareability.
 
 Software development is rarely carried out in isolated 
 environments for single-use; it aims to be accessible, 
