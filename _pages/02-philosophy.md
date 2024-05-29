@@ -62,13 +62,13 @@ jurisdiction of the United States Department of Defense.
 
 ## Up up and Away
 
-In the field of aviation, we went from aeroplanes during the 
-turn of the century to landing on the moon in the span of a 
-generation. How is that possible? To understand the quick 
-pace of technology we have to study the philosophical, 
+In the field of aviation, we went from testing aeroplanes at 
+the turn of the century to landing on the moon in the span 
+of a generation. How is that possible? To understand the 
+quick pace of technology we have to study the philosophical, 
 social, and historical forces that push and pull upon it, 
-sending it down various (seemingly unrelated) paths. The 
-aim of this book is to help its reader follow these paths 
+sending it down various (seemingly unrelated) paths. The aim 
+of this book is to help its reader follow these paths 
 equipped not with all the answers, but with the tools to ask 
 the right questions.
 
