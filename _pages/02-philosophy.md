@@ -9,7 +9,8 @@ interested in the field. Like with the other sciences,
 computer science developed from the work of *philosophers*: 
 mathematicians, logicians and researchers whose inquiries 
 pressed on *why* things were the way they were, cracking 
-open the door to possibilities of how they could one day be.
+open the door to possibilities that continue to unfold 
+today.
 
 The term philosophy in the title of this book is to be 
 understood as a method of inquiry, not a dogmatic belief 
